@@ -1,5 +1,5 @@
 # Werkzeug keeps breaking Flask!
-Wgit config --global user.emailerkzeug==2.1.2
+werkzeug==2.1.2
 
 # Runtime dependencies
 Flask==2.1.2
